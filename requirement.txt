@@ -1,0 +1,4 @@
+python-dotenv==0.19.0 → Loads environment variables from a .env file.
+pyTelegramBotAPI==4.9.0 → A Python wrapper for the Telegram Bot API.
+google-generativeai==0.3.0 → Enables interaction with Google's Gemini AI.
+google-search-results==2.4.2 → SerpAPI client for performing web searches. 🚀
